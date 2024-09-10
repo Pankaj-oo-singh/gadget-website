@@ -1,0 +1,73 @@
+.navbar{
+    flex-direction: column;
+    height: 450px;
+    transition: all 0s ease-out;
+    
+    
+    
+}
+
+.main-box{
+    flex-direction: column-reverse;
+    max-width: 100%;
+}
+.first-half{
+    text-align: center;
+}
+.listele{
+    flex-direction: column;
+
+   
+}
+.list{
+    margin-top: -40px;
+}
+.rightnav{
+    margin-top: -180px;
+    
+}
+.burger{
+    display: block;
+}
+.h-nav{
+    height: 75px;
+}
+.v-class{
+    opacity: 0;
+}
+.h-class{
+
+}
+.part1{
+    flex-direction: column-reverse;
+    max-width: 100%;
+    text-align: center;
+    max-width: 75%;
+}
+.part11{
+    flex-direction: column-reverse;
+    max-width: 100%;
+    text-align: center;
+    max-width: 75%;
+}
+.part111{
+    flex-direction: column-reverse;
+    max-width: 100%;
+    text-align: center;
+    max-width: 75%;
+}
+.part12{
+    flex-direction: column-reverse;
+    max-width: 100%;
+    text-align: center;
+    max-width: 75%;
+}
+.part112{
+    flex-direction: column-reverse;
+    max-width: 100%;
+    text-align: center;
+    max-width: 75%;
+}
+.contactus{
+    
+}
